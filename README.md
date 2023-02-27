@@ -3,11 +3,11 @@ Beta Globin Calculator asses Beta globins similarity. It is proposed as course p
 
 ## Developers:
 * Me(Mohammed Alhusainy)
-* Mr.faisal
+* Faisal Alharbi
 
 ## Our main features: 
-* calculating how similar and different the species are, and ordering them. 
-* drawing a tree based on the most different species.
+* Calculate similarity and difference in species and classify them.
+* Drawing a tree based on the similarity.
 
 ## User Interface:
 
