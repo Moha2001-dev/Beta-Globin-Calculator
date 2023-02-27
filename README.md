@@ -11,12 +11,16 @@ Beta Globin Calculator asses Beta globins similarity. It is proposed as course p
 
 ## User Interface:
 ### Home
-![Beta Globin Calculator](https://user-images.githubusercontent.com/80723154/221623126-659c86ac-0623-4a6d-b363-e9fdf90b6552.png)
+![Slide4](https://user-images.githubusercontent.com/80723154/221624361-b37a8c0f-614e-4c6f-a838-e63285b2a027.PNG)
+
 ### Data Entry
-![Slide4](https://user-images.githubusercontent.com/80723154/221621616-e6b7a1af-b3e2-4f26-8467-6be0033ab2b9.PNG)
-![Slide5](https://user-images.githubusercontent.com/80723154/221621632-269cbd60-1148-4431-8989-8d3ae06d40b1.PNG)
+![Slide5](https://user-images.githubusercontent.com/80723154/221624394-ab337891-c7cf-4e52-8e96-ce92d44bd4e6.PNG)
+![Slide6](https://user-images.githubusercontent.com/80723154/221624397-cac8b8c2-4f3a-4db9-b8bc-6fe86d7dd436.PNG)
+
 ### Calculation Result
-![Slide6](https://user-images.githubusercontent.com/80723154/221621694-2cb2e13e-6ae5-4717-9717-2d5ff5d9dc62.PNG)
+![Slide7](https://user-images.githubusercontent.com/80723154/221624443-8a4b7120-6b7f-4c08-9b3b-1f5943a4ebd0.PNG)
+
 ### Draw Tree
-![Slide7](https://user-images.githubusercontent.com/80723154/221621779-666b5c7e-41da-449a-b494-14f929fa0316.PNG)
+![Slide8](https://user-images.githubusercontent.com/80723154/221624460-3bd8c4bb-88c8-4f7a-98a7-d920cf741e6a.PNG)
+
 
