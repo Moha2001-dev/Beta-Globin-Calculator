@@ -1,18 +1,17 @@
 # Beta-Globin-Calculator
-This project is about Beta globins and how similar they are.
-This project is for Introduction to Bioinformatics(CS 468) course.
+Beta Globin Calculator asses Beta globins similarity. It is proposed as course project for Introduction to Bioinformatics(CS 468) course at Taibah University.
 
-# Developers:
+## Developers:
 * Me(Mohammed Alhusainy)
 * Mr.faisal
 
-# Our main features: 
+## Our main features: 
 * simple and modern UI. easy entry system. 
 * errors handling. 
 * calculating how similar and different the species are, and ordering them. 
 * drawing a tree based on the most different species.
 
-# Preview:
+## User Interface:
 
 ![Land Page](https://user-images.githubusercontent.com/80723154/209484223-fecaa6d5-8fea-4f8f-9b6e-0c0243753f07.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/80723154/209484225-c9d9f217-1c5c-4dec-8a0d-943d0cd64528.png)
