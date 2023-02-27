@@ -6,8 +6,6 @@ Beta Globin Calculator asses Beta globins similarity. It is proposed as course p
 * Mr.faisal
 
 ## Our main features: 
-* simple and modern UI. easy entry system. 
-* errors handling. 
 * calculating how similar and different the species are, and ordering them. 
 * drawing a tree based on the most different species.
 
